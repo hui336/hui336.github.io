@@ -1,0 +1,25 @@
+<svg width="960" height="1200" viewBox="0 0 960 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="1200" rx="56" fill="url(#bg)"/>
+  <circle cx="748" cy="208" r="174" fill="#F2C7A8" fill-opacity="0.52"/>
+  <circle cx="178" cy="1016" r="204" fill="#BFD4C5" fill-opacity="0.64"/>
+  <path d="M181 930C181 765.419 314.419 632 479 632C643.581 632 777 765.419 777 930V1014H181V930Z" fill="#D97B4F"/>
+  <ellipse cx="483" cy="466" rx="206" ry="244" fill="#F5D9C1"/>
+  <path d="M285 488C299.302 289.984 375.407 190.976 509.5 190.976C643.593 190.976 710.698 299.984 725 488C692.566 444.422 654.534 417.141 610.904 406.156C567.274 395.171 521.306 391.047 473 393.784C416.522 396.986 369.722 407.777 332.6 426.156C307.739 438.463 291.872 459.077 285 488Z" fill="#2E261F"/>
+  <path d="M323 536C352.497 525.286 386.497 519.929 425 519.929C463.503 519.929 497.503 525.286 527 536" stroke="#7A4A38" stroke-width="15" stroke-linecap="round"/>
+  <path d="M558 536C587.497 525.286 621.497 519.929 660 519.929C698.503 519.929 732.503 525.286 762 536" stroke="#7A4A38" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="422" cy="581" r="24" fill="#2E261F"/>
+  <circle cx="642" cy="581" r="24" fill="#2E261F"/>
+  <path d="M504.5 582V685" stroke="#D29B79" stroke-width="18" stroke-linecap="round"/>
+  <path d="M426 752C451.851 782.973 487.018 798.459 531.5 798.459C575.982 798.459 612.149 782.973 640 752" stroke="#A04E31" stroke-width="18" stroke-linecap="round"/>
+  <path d="M303 378C362.426 249.136 435.093 184.704 521 184.704C606.907 184.704 681.907 244.803 746 365.001L725 495C669.447 438.706 584.441 410.559 470 410.559C410.231 410.559 351.231 423.373 293 449L303 378Z" fill="#362B23"/>
+  <rect x="292" y="884" width="385" height="236" rx="54" fill="#F7EFE4"/>
+  <path d="M335 922H638" stroke="#D97B4F" stroke-width="16" stroke-linecap="round"/>
+  <path d="M335 976H604" stroke="#D9BBA5" stroke-width="16" stroke-linecap="round"/>
+  <path d="M335 1030H561" stroke="#D9BBA5" stroke-width="16" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="bg" x1="96" y1="48" x2="895" y2="1158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F0"/>
+      <stop offset="1" stop-color="#F2E6D8"/>
+    </linearGradient>
+  </defs>
+</svg>
